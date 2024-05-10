@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(233, 215, 207);
+  text-align: center;
+  color: rgb(83, 75, 75);
+  margin: 50px;
+}
+
+h1 {
+  font-family: "noto sans kr", sans-serif;
+}
+
+p {
+  font-family: "noto sans kr", sans-serif;
+  font-size: 24px;
+}
+
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+  font-family: "noto sans kr", sans-serif;
+  font-weight: 900;
+}
+
+a:hover {
+  text-decoration: underline;
+}

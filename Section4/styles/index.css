@@ -1,0 +1,98 @@
+body {
+  background-color: rgb(243, 233, 255);
+  font-family: "noto sans kr", serif;
+}
+
+h1 {
+  font-size: 52px;
+  font-weight: 900;
+  color: rgb(88, 51, 190);
+}
+
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+header img {
+  width: 300px;
+  margin: 10px;
+}
+
+main {
+  background-color: rgb(119, 74, 216);
+  padding: 32px;
+  margin: 32px auto;
+  width: 700px;
+  border-radius: 8px;
+  color: rgb(244, 241, 248);
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  margin: 14px 0;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(44, 6, 83);
+  background-color: rgb(255, 240, 178);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+a:hover,
+a:active {
+  background-color: rgb(255, 228, 120);
+}
+
+footer {
+  margin: 20px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+footer p {
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(112, 98, 124);
+  margin-top: 30px;
+}
+
+footer a {
+  padding: 12px 20px;
+  border-radius: 10px;
+  background-color: rgb(249, 201, 39);
+  color: rgb(89, 68, 12);
+
+  display: inline-block;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+footer a:hover,
+footer a:active {
+  background-color: rgb(241, 192, 29);
+}
+
+.extra-important {
+  color: rgb(255, 237, 177);
+  border-color: rgb(247, 209, 85);
+}
+
+h2 {
+  font-weight: 900;
+  font-size: 22px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 15px;
+}
